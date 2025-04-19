@@ -37,6 +37,7 @@ Projeto em Java que simula um iPhone com três funcionalidades principais, usand
    javac *.java
 
 2. Execute:
+   ```bash
    java Main
 
 ---
