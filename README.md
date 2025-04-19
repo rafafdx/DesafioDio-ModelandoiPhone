@@ -25,7 +25,7 @@ Projeto em Java que simula um iPhone com três funcionalidades principais, usand
 
 ## 🧩 Diagrama de Classes
 
-![Diagrama-iPhone](https://github.com/user-attachments/assets/8e0835cc-154d-4bdd-8f82-fc2f24e32454)
+![Diagrama-iPhone](https://github.com/user-attachments/assets/2c18e93e-111c-4846-a503-1e18f18cadaa)
 
 
 ---
